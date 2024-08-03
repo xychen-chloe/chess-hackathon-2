@@ -1,4 +1,4 @@
-isc_project_id = "<isc-project-id>"
+isc_project_id = "9c3aab89-008b-46ff-8b7d-97caf0aa64ef"
 experiment_name = "chessGPT"
 gpu_type = "24GB VRAM GPU"
 gpus = 48
